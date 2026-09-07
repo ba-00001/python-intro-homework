@@ -9,6 +9,7 @@ this folder.
 |-------|------|
 | **URL1** — Pull request | https://github.com/ba-00001/python-intro-homework/pull/8 |
 | **URL2** — Video reflection | `VIDEO_URL_HERE` |
+| **Video script** | [VIDEO-SCRIPT.md](VIDEO-SCRIPT.md) |
 | **Mindset Response** | [see below](#mindset-response--accessibility) |
 
 ## ⚠️ API substitution — please read
